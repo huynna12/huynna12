@@ -3,8 +3,6 @@
 Junior at Gettysburg College, studying Computer Science.
 I'm passionate about building AI systems and software that solve real problems.
 Currently targeting **AI Engineer** and **Software Engineer** roles.
-<sub>Outside of code — I run and shoot photography</sub>
-
 
 ## Tech Stack
 
