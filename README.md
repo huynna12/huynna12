@@ -27,17 +27,7 @@ Currently targeting **AI Engineer** and **Software Engineer** roles.
 
 - **Multi-Modal Nervousness Analyzer** — detects nervousness signals from text, audio, and live video using NLP, speech processing, and computer vision
 - **Multi-Agent Code Review System** — autonomous PR reviewer powered by a pipeline of specialized AI agents *(coming soon)*
-
-
-## GitHub Stats
-
-<div align="center">
-
-![Heidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynna12&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynna12&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
+  
 
 ## Currently Learning
 
