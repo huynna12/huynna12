@@ -1,6 +1,6 @@
 # Hi, I'm Heidi 🏃‍♀️‍➡️
 
-Junior at Gettysburg College, studying Computer Science.
+Rising senior at Gettysburg College, PA, US.
 I'm passionate about building AI systems and software that solve real problems.
 Currently targeting **AI Engineer** and **Software Engineer** roles.
 
