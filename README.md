@@ -37,7 +37,7 @@ Currently targeting **AI Engineer** and **Software Engineer** roles.
 
 <div align="center">
 
-<sub>Always building something. Outside of code — I run and shoot photography. Open to internship and entry-level opportunities.</sub>
+<sub>Open to internship and entry-level opportunities.</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=100&section=footer)
 
