@@ -1,8 +1,18 @@
-# Hi, I'm Heidi 🏃‍♀️‍➡️
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi,%20I'm%20Heidi%20🏃%E2%80%8D♀%EF%B8%8F%E2%80%8D➡%EF%B8%8F&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Gettysburg%20College&descAlignY=55&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&width=500&lines=Building+multi-modal+AI+systems;Rising+Senior+%40+Gettysburg+College;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 Rising senior at Gettysburg College, PA, US.
 I'm passionate about building AI systems and software that solve real problems.
 Currently targeting **AI Engineer** and **Software Engineer** roles.
+
+---
 
 ## Tech Stack
 
@@ -19,10 +29,27 @@ Currently targeting **AI Engineer** and **Software Engineer** roles.
 - **Multi-Agent Code Review System** — autonomous PR reviewer powered by a pipeline of specialized AI agents *(coming soon)*
 
 
+## GitHub Stats
+
+<div align="center">
+
+![Heidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynna12&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynna12&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+
 ## Currently Learning
 
 - Real-time systems with WebSockets
 - Computer vision with MediaPipe
 - AI agent orchestration with Claude API
 
-*Always building something. Open to internship and entry-level opportunities.*
+
+<div align="center">
+
+<sub>Always building something. Outside of code — I run and shoot photography. Open to internship and entry-level opportunities.</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
+
+</div>
