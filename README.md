@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=150&section=header&text=Hi,%20I'm%20Heidi%20🏃%E2%80%8D♀%EF%B8%8F%E2%80%8D➡%EF%B8%8F&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Gettysburg%20College&descAlignY=55&descSize=18)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=200&section=header&text=Hi,%20I'm%20Heidi%20🏃%E2%80%8D♀%EF%B8%8F%E2%80%8D➡%EF%B8%8F&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Gettysburg%20College&descAlignY=55&descSize=18)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&width=500&lines=Building+multi-modal+AI+systems;Rising+Senior+%40+Gettysburg+College;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
