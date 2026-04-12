@@ -22,19 +22,6 @@ Currently targeting **AI Engineer** and **Software Engineer** roles.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## What I'm Building
-
-- **Multi-Modal Nervousness Analyzer** — detects nervousness signals from text, audio, and live video using NLP, speech processing, and computer vision
-- **Multi-Agent Code Review System** — autonomous PR reviewer powered by a pipeline of specialized AI agents *(coming soon)*
-  
-
-## Currently Learning
-
-- Real-time systems with WebSockets
-- Computer vision with MediaPipe
-- AI agent orchestration with Claude API
-
-
 <div align="center">
 
 <sub>Open to internship and entry-level opportunities.</sub>
