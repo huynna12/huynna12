@@ -1,6 +1,6 @@
 # Heidi Ho
  
-CS & Mathematics @ Gettysburg College | Minor in Data Science
+CS & Math @ Gettysburg College | Minor in Data Science
  
 I like building things that solve real problems — AI pipelines, backend systems, and distributed applications.
 Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Systems** roles.
