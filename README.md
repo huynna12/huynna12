@@ -7,9 +7,6 @@ Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Sys
  
 ---
  
-## Current Project — TBD
----
- 
 ## Notable Projects
  
 * **[your-lecture-but-better](https://github.com/huynna12/your-lecture-but-better)** — A 5-agent AI pipeline that transforms any YouTube lecture into a full study environment: structured outline, multi-depth summaries, flashcards, semantic search, and a faculty audit tool
