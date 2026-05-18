@@ -20,15 +20,24 @@ Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Sys
 * **[BattleShip](https://github.com/huynna12/BattleShip)** — Battleship web app built with PHP and MySQL
 ---
  
-## Languages & Frameworks
- 
-**Languages:** Python, Java, JavaScript, C++
- 
-**Frameworks:** Django, Flask, Spring Boot (learning)
- 
+## Languages I know (most -> least comfortable)
+Python
+Java
+Typescript
+C++
+Go
+
+## Backend frameworks I know
+Django
+Flask
+Spring Boot (learning)
+
+## Also worked with (but not fluent)
+React (frontend), Kotlin (Android), Firebase (BaaS)
+
 ---
  
 ## Links
  
 * [LinkedIn](https://www.linkedin.com/in/heidi-ho-16b875246/)
-* honhuhuynh1210@gmail.com
+* honhuhuynh1210@gmail.com - will reply within a day and pardon me if the timing is off
