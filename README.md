@@ -8,7 +8,6 @@ Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Sys
 ---
  
 ## Current Project — TBD
- 
 ---
  
 ## Notable Projects
