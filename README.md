@@ -20,16 +20,22 @@ Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Sys
 * **[BattleShip](https://github.com/huynna12/BattleShip)** — Battleship web app built with PHP and MySQL
 ---
  
-## Languages I know (most -> least comfortable)
+## Languages I know (most → least comfortable)
 Python
+
 Java
+
 Typescript
+
 C++
+
 Go
 
 ## Backend frameworks I know
 Django
+
 Flask
+
 Spring Boot (learning)
 
 ## Also worked with (but not fluent)
