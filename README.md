@@ -1,30 +1,35 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=200&section=header&text=Hi,%20I'm%20Heidi%20🏃%E2%80%8D♀%EF%B8%8F%E2%80%8D➡%EF%B8%8F&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20and%20Math%20%7C%20DS%20minor%20%7C%20Gettysburg%20College%20%7C%20AI%20Engineer%20&descAlignY=55&descSize=18)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&width=500&lines=Building+multi-modal+AI+systems;MATH+%2B+CS+major%2C+DS+minor;Best+splits%3A+5K+PRs+and+git+commits)](https://git.io/typing-svg)
-
-
-</div>
-
-
-Rising senior at Gettysburg College, PA, US.
-I'm passionate about building AI systems and software that solve real problems.
-Currently targeting **AI Engineer** and **Software Engineer** roles.
-
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-<div align="center">
-
-<sub>Open to internship and entry-level opportunities.</sub>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=100&section=footer)
-
-</div>
+# Heidi Ho
+ 
+CS & Mathematics @ Gettysburg College | Minor in Data Science
+ 
+I like building things that solve real problems — AI pipelines, backend systems, and distributed applications.
+Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Systems** roles.
+ 
+---
+ 
+## Current Project — TBD
+ 
+---
+ 
+## Notable Projects
+ 
+* **[your-lecture-but-better](https://github.com/huynna12/your-lecture-but-better)** — A 5-agent AI pipeline that transforms any YouTube lecture into a full study environment: structured outline, multi-depth summaries, flashcards, semantic search, and a faculty audit tool
+* **[cancer-to-hell](https://github.com/huynna12/cancer-to-hell)** — A multi-agent AI system that helps patients, oncologists, and researchers explore cancer treatment pathways from multiple expert perspectives simultaneously. Written in Go
+* **[e-commerce-Website](https://github.com/huynna12/e-commerce-Website)** — Full-stack e-commerce platform built with React and Django REST Framework
+* **[Sudoku-App](https://github.com/huynna12/Sudoku-App)** — Android Sudoku game built with Kotlin, Java, Jetpack Compose, and Firebase
+* **[robot-path](https://github.com/huynna12/robot-path)** — PicarX line-following robot using three grayscale sensors and threshold-based state detection, built with Python
+* **[BattleShip](https://github.com/huynna12/BattleShip)** — Battleship web app built with PHP and MySQL
+---
+ 
+## Languages & Frameworks
+ 
+**Languages:** Python, Java, JavaScript, C++
+ 
+**Frameworks:** Django, Flask, Spring Boot (learning)
+ 
+---
+ 
+## Links
+ 
+* [LinkedIn](https://www.linkedin.com/in/heidi-ho-16b875246/)
+* honhuhuynh1210@gmail.com
