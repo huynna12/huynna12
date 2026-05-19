@@ -3,7 +3,7 @@
 CS & Math @ Gettysburg College | Minor in Data Science
  
 I like building things that solve real problems — AI pipelines, backend systems, and distributed applications.
-Currently targeting **Backend Engineer**, **AI Engineer**, and **Distributed Systems** roles.
+Currently targeting **Backend Engineer**, **SWE Engineer**, and **Distributed Systems** roles.
  
 ---
  
