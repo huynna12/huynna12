@@ -1,8 +1,8 @@
 # Heidi Ho
  
 CS & Math @ Gettysburg College | Minor in Data Science
- 
-I like building things that solve real problems — AI pipelines, backend systems, and distributed applications.
+
+Love to build & contribute. 
 Currently targeting **Backend Engineer**, **SWE Engineer**, and **Distributed Systems** roles.
  
 ---
@@ -22,18 +22,18 @@ Python
 
 Java
 
-Typescript
-
 C++
 
 Go
+
+C# (learning)
 
 ## Backend frameworks I know
 Django
 
 Flask
 
-Spring Boot (learning)
+.NET (learning)
 
 ## Also worked with (but not fluent)
 React (frontend), Kotlin (Android), Firebase (BaaS)
