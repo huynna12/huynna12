@@ -6,7 +6,7 @@ do good work, if not great
 
 ---
  
-## Notable Projects
+## Projects
  
 * **[your-lecture-but-better](https://github.com/huynna12/your-lecture-but-better)** — A 5-agent AI pipeline that transforms any YouTube lecture into a full study environment: structured outline, multi-depth summaries, flashcards, semantic search, and a faculty audit tool
 * **[cancer-to-hell](https://github.com/huynna12/cancer-to-hell)** — A multi-agent AI system that helps patients, oncologists, and researchers explore cancer treatment pathways from multiple expert perspectives simultaneously. Written in Go
