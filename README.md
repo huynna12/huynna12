@@ -35,8 +35,8 @@ Flask
 
 .NET (learning)
 
-## Also worked with (but not fluent)
-React (frontend), Kotlin (Android), Firebase (BaaS)
+## Also experienced with (but not fluent)
+React (frontend), Kotlin (Android)
 
 ---
  
