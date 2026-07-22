@@ -21,8 +21,6 @@ Python
 
 Java
 
-C++
-
 Go
 
 C# (learning)
@@ -33,9 +31,6 @@ Django
 Flask
 
 .NET (learning)
-
-## Also experienced with (but not fluent)
-React (frontend), Kotlin (Android)
 
 ---
  
