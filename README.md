@@ -1,8 +1,6 @@
 # Heidi Ho
  
-rising senior CS & Math @ Gettysburg College | minor in Data Science
-
-do good work, if not great
+senior CS & Math @ Gettysburg College | minor in Data Science
 
 ---
  
