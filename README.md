@@ -17,18 +17,20 @@ senior CS & Math @ Gettysburg College | minor in Data Science
 ## Languages I know (most → least comfortable)
 Python
 
-Java
-
 Go
 
-C# (learning)
+C# 
+
+Java
+
+---
 
 ## Backend frameworks I know
 Django
 
-Flask
+.NET 
 
-.NET (learning)
+Flask
 
 ---
  
