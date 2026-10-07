@@ -8,17 +8,13 @@ senior CS & Math @ Gettysburg College | minor in Data Science
  
 * **[your-lecture-but-better](https://github.com/huynna12/your-lecture-but-better)** — A 5-agent AI pipeline that transforms any YouTube lecture into a full study environment: structured outline, multi-depth summaries, flashcards, semantic search, and a faculty audit tool
 * **[cancer-to-hell](https://github.com/huynna12/cancer-to-hell)** — A multi-agent AI system that helps patients, oncologists, and researchers explore cancer treatment pathways from multiple expert perspectives simultaneously. Written in Go
-* **[Sudoku-App](https://github.com/huynna12/Sudoku-App)** — Android Sudoku game built with Kotlin, Java, Jetpack Compose, and Firebase
 * **[robot-path](https://github.com/huynna12/robot-path)** — PicarX line-following robot using three grayscale sensors and threshold-based state detection, built with Python
-* **[BattleShip](https://github.com/huynna12/BattleShip)** — Battleship web app built with PHP and MySQL
 ---
  
 ## Languages I know (most → least comfortable)
 Python
 
 Go
-
-C# 
 
 Java
 
@@ -27,7 +23,7 @@ Java
 ## Backend frameworks I know
 Django
 
-.NET 
+Spring Boot
 
 Flask
 
