@@ -22,9 +22,10 @@ Spring Boot
 
 Flask
  
-## Links
- 
-* [LinkedIn](https://www.linkedin.com/in/heidi-ho-16b875246/)
+## Say Hi
+
+* [website](https://huynna12.github.io/)
+* [linkedIn](https://www.linkedin.com/in/heidi-ho-16b875246/)
 * honhuhuynh1210@gmail.com - will reply within a day and pardon me if the timing is off
 
 if you are Viet, call me Huynh ><
