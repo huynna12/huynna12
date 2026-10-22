@@ -11,16 +11,16 @@ senior CS & Math @ Gettysburg College | minor in Data Science
 ## Languages I know 
 Python
 
-Go
-
 Java
+
+Go
 
 ## Backend frameworks I know
 Django
 
 Spring Boot
 
-Flask
+Fast
  
 ## Say Hi
 
